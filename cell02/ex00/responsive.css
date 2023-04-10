@@ -1,0 +1,21 @@
+.box {
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.2em;
+    color: white;
+    font-weight: bold;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+table {
+	width: 100%;
+}
