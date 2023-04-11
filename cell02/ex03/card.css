@@ -1,0 +1,14 @@
+ /* add some style for the card */
+ table {
+	margin: 0 auto;
+  }
+  td {
+	padding: 10px;
+	text-align: center;
+  }
+  img {
+	border-radius: 50%;
+  }
+  button {
+	margin-top: 20px;
+  }
